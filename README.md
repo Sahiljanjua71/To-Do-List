@@ -18,6 +18,3 @@ To make a simple and basic To-Do list using Python for beginner.
 - First we create a virtual environment for the python file to work and import its library of Flask.
 - Then make a good webpage using HTML.
 - Finally style the webpage using CSS.
-
-## Conclusion
-Sales increased 20% during festive months.
